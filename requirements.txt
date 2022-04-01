@@ -3,6 +3,5 @@ certifi
 tornado>=5.1
 cryptography
 pyrogram
-time
 datetime
 pytz
